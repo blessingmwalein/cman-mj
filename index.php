@@ -40,6 +40,14 @@
                     <div id="login" class="animate form">
                         <form action="login.php" method="POST" autocomplete="on">
                             <h1>Log in</h1>
+                            <p style="color: red;"><?php
+                                session_start();
+
+                                if (isset($_SESSION['error_login'])) {
+                                    echo $_SESSION['error_login'];
+                                } else {
+                                    echo "";
+                                } ?></p>
                             <p>
                                 <label for="username" class="uname" data-icon="u"> Username </label>
                                 <input id="username" name="username" required="required" type="text" placeholder="Mobile Number" />
