@@ -5,7 +5,7 @@ $conn;
 function dbcon(){
 	global $conn;
 	$user = "root";
-	$pass = "password";
+	$pass = "";
 	$host = "localhost";
 	$db = "cman";
 	$conn = mysqli_connect($host,$user,$pass,$db) or die('Cannot connect to the databse.');

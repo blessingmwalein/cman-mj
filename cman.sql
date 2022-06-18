@@ -25,7 +25,6 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `accounts`
 --
-use database cman;
 CREATE TABLE IF NOT EXISTS `accounts` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `Bank_Name` varchar(200) DEFAULT NULL,

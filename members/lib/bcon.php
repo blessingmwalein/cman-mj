@@ -2,7 +2,7 @@
 //core
 function dbcon(){
 	$user = "root";
-	$pass = "password";
+	$pass = "";
 	$host = "localhost";
 	$db = "cman";
 	@mysqli_pconnect($host,$user,$pass);

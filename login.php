@@ -1,7 +1,7 @@
 <?php
 $host="localhost";
 		$uname="root";
-		$pas="password";
+		$pas="";
 		$db_name="cman";
 		$tbl_name="members";
 		

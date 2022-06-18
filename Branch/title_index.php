@@ -3,7 +3,7 @@
 			<div class="span12"></div>
 				  <div class="row-fluid">
 						<div class="span10">
-						<img class="index_logo" src="images/logo.png"  >
+						<img class="index_logo"  >
 						</div>	
 						<div class="span12">
 							<div class="motto">

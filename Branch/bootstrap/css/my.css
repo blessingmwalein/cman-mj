@@ -104,8 +104,8 @@ body {
 color:#fff !important;
 }
 .alert-info{
-	background-color: #3B5998;
-    border-color: #3B5998;
+	background-color: #800080 !important;
+    border-color: #800080 !important;
     color: #fff;
 }
 .nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus {
@@ -146,8 +146,8 @@ footer{
 
 }
 .bnt-info{
-	background-color: #3B5998 !important; 
-    background-image: linear-gradient(to bottom, #3B5998, #3B5998) !important;
+	background-color: #800080 !important; 
+    background-image: linear-gradient(to bottom, #800080 !important, #800080 !important) !important;
     background-repeat: repeat-x !important;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25) !important;
     color: #FFFFFF !important;
@@ -157,8 +157,8 @@ footer{
     border-radius: 0px 0px 0px 0px !important;
 }
 .btn-info{
-	background-color: #3B5998 !important; 
-    background-image: linear-gradient(to bottom, #3B5998, #3B5998) !important;
+	background-color: #800080 !important; 
+    background-image: linear-gradient(to bottom, #800080 !important, #800080 !important) !important;
     background-repeat: repeat-x !important;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25) !important;
     color: #FFFFFF !important;
